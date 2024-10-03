@@ -24,7 +24,7 @@
 
 *📷 tirar fotos*
 
-**projeto:**[https://editor.p5js.org/yasmin.valenga/sketches/mmFnnAbS_]
+**projeto:**[https://editor.p5js.org/yasmin.valenga/full/mmFnnAbS_]
 
 *📭  contato: yasmin.valenga@escola.pr.gov.br*
 
